@@ -42,7 +42,7 @@ instance/
 
 # IDE
 .vscode/
-.idea/
+.ide
 *.swp
 *.swo
 *~
