@@ -455,7 +455,7 @@ const Donate = () => {
                 <ListItem>
                   <ListItemText 
                     primary={
-                      <Link href="https://www.linkedin.com/in/yashabalam" target="_blank" rel="noopener">
+                      <Link href="https://www.linkedin.com/in/yashab-alam" target="_blank" rel="noopener">
                         💼 Yashab Alam (LinkedIn)
                       </Link>
                     }
